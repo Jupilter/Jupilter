@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @Jupilter
-- 👀 I’m interested in: Lua, C++, Java
+- 👀 I’m interested in: Lua, C++
 - 🌱 I’m currently learning: C++
-- 💞️ I’m looking to collaborate on: Lua Projects.
+- 💞️ I’m looking to collaborate on: C++ and Lua projects.
 - 📫 How to reach me:
-Socials = {
+
 Discord = "Jupiter#8109"
-}
+
 Extra Info:
 I want to learn c++ for game's, reverse enginnering, game hacking
 
